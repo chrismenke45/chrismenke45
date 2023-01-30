@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **I’m lookweb development projects and would love to work on a mobile app**
 
-- 👨‍💻 All of my projects are available at [https://chrismenke45.github.io](https://chrismenke45.github.io)
+- 👨‍💻 All of my projects are available on my [portfolio](https://chrismenke45.github.io)
 
 - 💬 Ask me about **React, Node/Express, Rails, MongoDB or SQL**
 
