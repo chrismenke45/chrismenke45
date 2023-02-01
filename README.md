@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **I’m lookweb development projects and would love to work on a mobile app**
+- 👯 I’m looking to collaborate on **web development projects and would love to work on a mobile app**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://chrismenke45.github.io)
 
