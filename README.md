@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate full stack developer from California</h3>
 
-- 🔭 I’m currently working on a [trivia app](https://https://github.com/chrismenke45/trivia)
+- 🔭 I’m currently working on a [trivia app](https://github.com/chrismenke45/trivia)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
