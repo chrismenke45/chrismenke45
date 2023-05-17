@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate full stack developer from California</h3>
 
-- 🔭 I’m currently working on a [trivia app](https://github.com/chrismenke45/trivia)
+- 🔭 I’m currently working on a [book tracking app](https://github.com/chrismenke45/book_api)
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **web development projects and would love to work on a mobile app**
 
