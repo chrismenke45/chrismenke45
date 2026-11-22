@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate full stack developer from California</h3>
 
-- 🔭 I’m currently working on a [book tracking app](https://github.com/chrismenke45/book_api)
-
-- 🌱 I’m currently learning **React Native**
-
 - 👯 I’m looking to collaborate on **web development projects and would love to work on a mobile app**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://chrismenke45.github.io)
 
-- 💬 Ask me about **React, Node/Express, Rails, MongoDB or SQL**
+- 💬 Ask me about **React, Node/Express, Rails, PHP, SQL or MongoDB**
 
 - 📫 How to reach me **chrismenke45@gmail.com**
 
@@ -38,4 +34,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" width="40" height="40"/> </a>
+
+  
 </p>
