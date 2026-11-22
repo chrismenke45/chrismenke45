@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate full stack developer from California</h3>
 
-- 👯 I’m looking to collaborate on **web development projects and would love to work on a mobile app**
+<!-- - 👯 I’m looking to collaborate on **web development projects and would love to work on a mobile app**
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://chrismenke45.github.io)
+ 👨‍💻 All of my projects are available on my [portfolio](https://chrismenke45.github.io) -->
 
 - 💬 Ask me about **React, Node/Express, Rails, PHP, SQL or MongoDB**
 
